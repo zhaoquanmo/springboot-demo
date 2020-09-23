@@ -47,11 +47,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/springboot-demo" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="D:\IntelliJIDEA\plugins\maven\lib\maven3" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
         <option name="userSettingsFile" value="C:\Users\wiggin\environment\apache-maven-3.5.0\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -80,7 +81,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager" selected="Application.Test">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -254,6 +255,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="417" y="65" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1600844836939" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1600846524565">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1600846524565" />
     <state x="486" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600844841462">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
