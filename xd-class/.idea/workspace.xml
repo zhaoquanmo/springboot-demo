@@ -28,6 +28,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5dfd42e3-a62d-41cc-bd85-0a34aaa86a47" name="Default" comment="修改service">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springboot-demo" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-demo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springboot-demo/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-demo/Jenkinsfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springboot-demo/src/main/java/com/wiggin/springboot/demo/controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-demo/src/main/java/com/wiggin/springboot/demo/controller/StudentController.java" afterDir="false" />
@@ -160,6 +161,7 @@
       <workItem from="1600831251061" duration="315000" />
       <workItem from="1600840006949" duration="329000" />
       <workItem from="1600841239634" duration="387000" />
+      <workItem from="1600842004545" duration="389000" />
     </task>
     <task id="LOCAL-00001" summary="去掉数据源">
       <created>1530292513281</created>
@@ -212,6 +214,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="去掉数据源" />
@@ -231,22 +234,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600841180798" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1600841325458">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1600841967696">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600841325458" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1600841325458">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600841967696" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1600841967696">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600841325458" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1600841325457">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600841967696" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1600841967695">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600841325457" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1600841325458">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600841967695" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1600841967696">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600841325458" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600841967696" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
