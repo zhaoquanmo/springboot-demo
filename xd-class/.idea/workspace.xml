@@ -3,35 +3,9 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="ALL" />
   </component>
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:demo2" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="5dfd42e3-a62d-41cc-bd85-0a34aaa86a47" name="Default" comment="修改service">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-demo" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-demo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springboot-demo/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-demo/Jenkinsfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-demo/src/main/java/com/wiggin/springboot/demo/controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-demo/src/main/java/com/wiggin/springboot/demo/controller/StudentController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,12 +21,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/springboot-demo" />
-    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="mavenHome" value="D:\IntelliJIDEA\plugins\maven\lib\maven3" />
         <option name="userSettingsFile" value="C:\Users\wiggin\environment\apache-maven-3.5.0\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -64,7 +37,6 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelOrder2" value="2" />
@@ -72,16 +44,15 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/mybatis" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
   </component>
   <component name="RunManager" selected="Application.Test">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -127,11 +98,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Test" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -160,9 +126,8 @@
       <workItem from="1531144564666" duration="1078000" />
       <workItem from="1531227070447" duration="2266000" />
       <workItem from="1600831251061" duration="315000" />
-      <workItem from="1600840006949" duration="329000" />
-      <workItem from="1600841239634" duration="387000" />
-      <workItem from="1600842004545" duration="389000" />
+      <workItem from="1600840006949" duration="783000" />
+      <workItem from="1600852150294" duration="83000" />
     </task>
     <task id="LOCAL-00001" summary="去掉数据源">
       <created>1530292513281</created>
@@ -205,64 +170,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="去掉数据源" />
     <MESSAGE value="修改service" />
     <option name="LAST_COMMIT_MESSAGE" value="修改service" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="137" y="13" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600841317422">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="137" y="13" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1600841317422" />
-    <state x="412" y="160" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1600841425476">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="412" y="160" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1600841425476" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1600841180798">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600841180798" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1600841967696">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600841967696" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1600841967696">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600841967696" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1600841967695">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600841967695" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1600841967696">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600841967696" />
-    <state x="417" y="65" key="RollbackChangesDialog" timestamp="1600844836939">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="417" y="65" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1600844836939" />
-    <state x="184" y="8" key="SettingsEditor" timestamp="1600846524565">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1600846524565" />
-    <state x="486" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600846845179">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="486" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1600846845179" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
