@@ -8,8 +8,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="5dfd42e3-a62d-41cc-bd85-0a34aaa86a47" name="Default" comment="初始化项目">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+    <list default="true" id="5dfd42e3-a62d-41cc-bd85-0a34aaa86a47" name="Default" comment="修改service">
+>>>>>>> v1
       <change beforePath="$PROJECT_DIR$/springboot-demo" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-demo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springboot-demo/src/main/java/com/wiggin/springboot/demo/controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-demo/src/main/java/com/wiggin/springboot/demo/controller/StudentController.java" afterDir="false" />
     </list>
@@ -107,7 +111,11 @@
       </method>
     </configuration>
     <list>
+<<<<<<< HEAD
       <item itemvalue="Application.Run" />
+=======
+      <item itemvalue="Application.Test" />
+>>>>>>> v1
       <item itemvalue="Spring Boot.Main" />
     </list>
     <recent_temporary>
@@ -143,10 +151,17 @@
       <workItem from="1531144564666" duration="1078000" />
       <workItem from="1531227070447" duration="2266000" />
       <workItem from="1600831251061" duration="315000" />
+<<<<<<< HEAD
       <workItem from="1600840006949" duration="783000" />
       <workItem from="1600852150294" duration="83000" />
       <workItem from="1600909924604" duration="770000" />
       <workItem from="1600915392781" duration="71000" />
+=======
+      <workItem from="1600840006949" duration="329000" />
+      <workItem from="1600841239634" duration="387000" />
+      <workItem from="1600842004545" duration="389000" />
+      <workItem from="1600843664724" duration="611000" />
+>>>>>>> v1
     </task>
     <task id="LOCAL-00001" summary="去掉数据源">
       <created>1530292513281</created>
