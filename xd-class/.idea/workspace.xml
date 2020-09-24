@@ -83,19 +83,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -159,6 +146,7 @@
       <workItem from="1600840006949" duration="783000" />
       <workItem from="1600852150294" duration="83000" />
       <workItem from="1600909924604" duration="770000" />
+      <workItem from="1600915392781" duration="71000" />
     </task>
     <task id="LOCAL-00001" summary="去掉数据源">
       <created>1530292513281</created>
