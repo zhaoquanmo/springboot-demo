@@ -8,12 +8,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5dfd42e3-a62d-41cc-bd85-0a34aaa86a47" name="Default" comment="修改service">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-demo" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-demo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-demo/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-demo/Jenkinsfile" afterDir="false" />
-    </list>
+    <list default="true" id="5dfd42e3-a62d-41cc-bd85-0a34aaa86a47" name="Default" comment="初始化项目" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -159,7 +154,7 @@
       <workItem from="1600831251061" duration="315000" />
       <workItem from="1600840006949" duration="783000" />
       <workItem from="1600852150294" duration="83000" />
-      <workItem from="1600909924604" duration="335000" />
+      <workItem from="1600909924604" duration="770000" />
     </task>
     <task id="LOCAL-00001" summary="去掉数据源">
       <created>1530292513281</created>
@@ -196,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1531036118082</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="初始化项目">
+      <created>1600910392401</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1600910392401</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,7 +219,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="去掉数据源" />
     <MESSAGE value="修改service" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改service" />
+    <MESSAGE value="初始化项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="初始化项目" />
   </component>
   <component name="WindowStateProjectService">
     <state x="163" y="0" key="#Project_Structure" timestamp="1600852920114">
@@ -228,10 +231,34 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="13" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1600852901554" />
+    <state x="187" y="0" key="CommitChangelistDialog2" timestamp="1600910390225">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="187" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1600910390225" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1600910350612">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600910350612" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1600910350612">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600910350612" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1600910350611">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600910350611" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1600910350612">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600910350612" />
     <state x="217" y="17" key="SettingsEditor" timestamp="1600853345481">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="217" y="17" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1600853345481" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1600910399832">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600910399832" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
